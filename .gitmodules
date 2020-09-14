@@ -1,0 +1,3 @@
+[submodule "websocket_client"]
+	path = websocket_client
+	url = https://github.com/eajithkumar128/websocket_client.git
